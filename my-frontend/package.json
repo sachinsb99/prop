@@ -39,12 +39,8 @@
     "prettier-plugin-tailwindcss": "^0.6.11",
     "typescript": "^5.3.3"
   }
-  {
-  "name": "my-package",
   "scripts": {
-    "build": "babel src -d lib",
-    "test": "jest"
-  }
+  "build": "react-scripts build"
 }
 }
 
